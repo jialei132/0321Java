@@ -6,5 +6,6 @@ public class Demo01 {
         System.out.println("AAAAAAAAAAAA");
         System.out.println("BBBBBBBBBB");
         System.out.println("BBBBBBfffBB");
+        System.out.println("000000000000");
     }
 }
