@@ -7,5 +7,7 @@ public class Demo02 {
         System.out.println("FFFFFFFFF");
         System.out.println("FFFFFFFFF");
         System.out.println("GGGGGGGGGGG");
+        System.out.println("GGGGGGGGGGG");
+        System.out.println("小");
     }
 }
